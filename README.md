@@ -3,6 +3,8 @@
 This is an npm package that takes care of Signature Version 4 authentication
 for HTTP connections to Ethereum nodes on
 [Amazon Managed Blockchain](https://aws.amazon.com/managed-blockchain/).
+## Contribution
+Minor documentation improvement.
 
 ## Installing
 
