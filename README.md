@@ -78,3 +78,9 @@ information.
 ## License
 
 This library is licensed under the [LGPL-3.0 License](LICENSE).
+
+## Base Network Note
+
+This repository can be experimented with on Base mainnet
+for educational and testing purposes.
+
